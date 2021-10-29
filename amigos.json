@@ -1,0 +1,28 @@
+{
+    "amigosList": [
+        {
+            "nombreAmigo": "Luis",
+            "apellidoAmigo": "Sanchez",
+            "uniAmigo": "TU Berlin",
+            "Hindex": "3"
+        },
+        {
+            "nombreAmigo": "Juan",
+            "apellidoAmigo": "Lopez",
+            "uniAmigo": "Viadrina",
+            "Hindex": "13"
+        },
+        {
+            "nombreAmigo": "Jose",
+            "apellidoAmigo": "Martinez",
+            "uniAmigo": "BTU",
+            "Hindex": "5"
+        },
+        {
+            "nombreAmigo": "Galo",
+            "apellidoAmigo": "Perez",
+            "uniAmigo": "UFZ",
+            "Hindex": "18"
+        }
+    ]
+}
